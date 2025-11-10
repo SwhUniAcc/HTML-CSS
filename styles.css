@@ -46,3 +46,11 @@ li, ol {
     color: orangered;
     font-weight:bold
 }
+
+.image {
+    width: 75%;
+}
+
+a {
+    color: red;
+}
